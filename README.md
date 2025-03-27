@@ -28,12 +28,6 @@ I’m a **bioinformatics undergraduate** specializing in **genomics, statistical
 - **GitHub:** [MLM19](https://github.com/MLM19)
 - **LinkedIn:** [María López](https://www.linkedin.com/in/maria-lopez-moriana/)
 
-Feel free to explore my repositories or reach out if you're interested in statistical genetics, computational biology, or bioinformatics!
 
-
-## Hi there 👋
-
-<!--
-**MLM19/MLM19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
