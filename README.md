@@ -10,6 +10,7 @@ I’m a **bioinformatics undergraduate** specializing in **genomics, statistical
 
 ### 🌱 Currently learning: 
 - **Git & Github**
+- **C**
 
 ### 🛠️ Tools & Methods:
 - **Programming**: Python, R, SQL, C++  
@@ -18,11 +19,8 @@ I’m a **bioinformatics undergraduate** specializing in **genomics, statistical
 - **Data Visualization**: Matplotlib, Seaborn, ggplot2  
 
 ### 🔭 Current Work:
-- **Analyzing genetic and environmental interactions** in complex diseases.
-- **Developing AI-driven models** to explore associations between genetic markers and disease risk.
-- **Processing and integrating multi-omics datasets** for functional characterization.
-- **Building computational pipelines** to automate genomic data analysis.
-- **Working on informatics projects** as part of my university degree, integrating computational methods into biological research.
+- **Coursing the CS50 Harvard course** in order to solidify my C language.
+- **Developing a package for handling GWAS's summary statistics** from scratch in R, to organize the resources used for my final degree project.
 
 ### 📫 How to reach me:
 - **GitHub:** [MLM19](https://github.com/MLM19)
